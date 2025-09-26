@@ -54,5 +54,3 @@ def delete_user(usuario_id):
     return Success(usuario_removido)
 
 serve('localhost', 5000)
-
-serve('localhost', 5000)
